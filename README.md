@@ -1,3 +1,4 @@
 # APPTRTA_CS36
-a payroll program to rule them all
+A Payroll Program To Rule Them All
+
 an extracuricular group development project
